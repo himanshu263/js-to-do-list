@@ -25,8 +25,7 @@ https://himanshu263.github.io/js-to-do-list/
 📸 Screenshots
 
 Desktop	Mobile
-scr.png
-
+![to-do-list](scr.png)
 (Optional: Add screenshots inside your repo like /assets/demo-screenshot.png and update the link.)
 
 ⸻
