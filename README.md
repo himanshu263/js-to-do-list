@@ -7,7 +7,7 @@ Here’s a 🔥 clean and modern README template for your JS To-Do List Project 
 A modern, colorful, responsive To-Do List App built with HTML, CSS, and JavaScript. This app lets you easily manage your daily tasks with status updates, edit/delete functionality, and a sleek glassmorphism UI.
 
 🚀 Live Demo
-
+https://himanshu263.github.io/js-to-do-list/
 👉 View Demo
 
 ⸻
