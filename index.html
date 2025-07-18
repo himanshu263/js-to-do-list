@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Do List App</title>
+  <!-- Font Awesome for icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+  
+  <!-- External CSS file -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="todo-container">
+    <h1>To-Do List App</h1>
+
+    <!-- Add Task Section -->
+    <div class="add-task-box">
+      <textarea id="task-input" placeholder="Enter task details here..."></textarea>
+      <button id="add-btn">Add Task</button>
+    </div>
+  
+    <!-- Task List Section -->
+    <div class="task-list-box">
+      <div class="task-list-header">
+        <span>Task</span>
+        <span>Status</span>
+        <span>Actions</span>
+      </div>
+      <ul id="todo-list"></ul>
+    </div>
+  </div>
+
+  <!-- External JavaScript file -->
+  <script src="script.js"></script>
+
+</body>
+</html>
